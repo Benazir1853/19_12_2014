@@ -1,0 +1,6 @@
+G:\19_12_2014\ListStudentApp\ListStudentApp\bin\Debug\ListStudentApp.exe.config
+G:\19_12_2014\ListStudentApp\ListStudentApp\bin\Debug\ListStudentApp.exe
+G:\19_12_2014\ListStudentApp\ListStudentApp\bin\Debug\ListStudentApp.pdb
+G:\19_12_2014\ListStudentApp\ListStudentApp\obj\Debug\ListStudentApp.csprojResolveAssemblyReference.cache
+G:\19_12_2014\ListStudentApp\ListStudentApp\obj\Debug\ListStudentApp.exe
+G:\19_12_2014\ListStudentApp\ListStudentApp\obj\Debug\ListStudentApp.pdb

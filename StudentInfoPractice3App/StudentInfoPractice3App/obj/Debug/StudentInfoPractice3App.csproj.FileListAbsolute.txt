@@ -1,0 +1,9 @@
+G:\19_12_2014\StudentInfoPractice3App\StudentInfoPractice3App\bin\Debug\StudentInfoPractice3App.exe.config
+G:\19_12_2014\StudentInfoPractice3App\StudentInfoPractice3App\obj\Debug\StudentInfoPractice3App.csprojResolveAssemblyReference.cache
+G:\19_12_2014\StudentInfoPractice3App\StudentInfoPractice3App\obj\Debug\StudentInfoPractice3App.Form1.resources
+G:\19_12_2014\StudentInfoPractice3App\StudentInfoPractice3App\obj\Debug\StudentInfoPractice3App.Properties.Resources.resources
+G:\19_12_2014\StudentInfoPractice3App\StudentInfoPractice3App\obj\Debug\StudentInfoPractice3App.csproj.GenerateResource.Cache
+G:\19_12_2014\StudentInfoPractice3App\StudentInfoPractice3App\bin\Debug\StudentInfoPractice3App.exe
+G:\19_12_2014\StudentInfoPractice3App\StudentInfoPractice3App\bin\Debug\StudentInfoPractice3App.pdb
+G:\19_12_2014\StudentInfoPractice3App\StudentInfoPractice3App\obj\Debug\StudentInfoPractice3App.exe
+G:\19_12_2014\StudentInfoPractice3App\StudentInfoPractice3App\obj\Debug\StudentInfoPractice3App.pdb
